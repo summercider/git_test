@@ -1,4 +1,3 @@
-hello git!
-ㅋㅋㅋㅋㅋㅋ
-12341234
-커밋준비
+hello git
+
+main ui 오리진
